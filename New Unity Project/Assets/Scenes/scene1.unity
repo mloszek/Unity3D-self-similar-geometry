@@ -137,9 +137,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   singleElement: {fileID: 1618059301974126, guid: 7f626c1c1d7413f40a14549298cd1f12,
     type: 2}
-  scaleDivide: 0.5
-  iterations: 0
-  angle: 0
+  scaleDivide: 0.6
+  iterations: 4
+  angle: 45
 --- !u!4 &1048755465
 Transform:
   m_ObjectHideFlags: 0
