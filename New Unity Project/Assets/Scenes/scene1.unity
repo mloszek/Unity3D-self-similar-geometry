@@ -139,7 +139,7 @@ MonoBehaviour:
     type: 2}
   scaleDivide: 0.6
   iterations: 4
-  angle: 45
+  angle: 90
 --- !u!4 &1048755465
 Transform:
   m_ObjectHideFlags: 0
